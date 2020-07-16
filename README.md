@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on Machine Learning, Data Science, Artificial Intelligence and Cyber Security
-##### <img src="http://RegaipKurt.github.io/images/linked1.png" height=32> <a href="https://www.linkedin.com/in/regaipkurt/">regaipkurt</a> &nbsp;<img src="http://RegaipKurt.github.io/images/kaggle-5.png" height=32><a href="https://www.kaggle.com/regaipkurt">regaipkurt</a> &nbsp;&nbsp;&nbsp;<img src="http://RegaipKurt.github.io/images/academia_square.png" height=32><a href="https://ankara.academia.edu/RegaipKurt">&nbsp;&nbsp;RegaipKurt</a>&nbsp;&nbsp;&nbsp;<img src="http://RegaipKurt.github.io/images/Twitter_Square.png" height=32 ><a href="https://twitter.com/kodyazanbirsair">&nbsp;&nbsp;RegaipKurt</a>
+##### <img src="http://RegaipKurt.github.io/images/linked1.png" height=32> <a href="https://www.linkedin.com/in/regaipkurt/">LinkedIn</a> &nbsp;<img src="http://RegaipKurt.github.io/images/kaggle-5.png" height=32><a href="https://www.kaggle.com/regaipkurt">Kaggle</a> &nbsp;&nbsp;&nbsp;<img src="http://RegaipKurt.github.io/images/academia_square.png" height=32><a href="https://ankara.academia.edu/RegaipKurt">&nbsp;&nbsp;Academia</a>&nbsp;&nbsp;&nbsp;<img src="http://RegaipKurt.github.io/images/Twitter_Square.png" height=32 ><a href="https://twitter.com/kodyazanbirsair">&nbsp;&nbsp;Twitter</a>
 
 <!--
 **RegaipKURT/RegaipKURT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
