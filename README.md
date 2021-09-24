@@ -6,8 +6,9 @@
 <img src="http://RegaipKurt.github.io/images/academia_square.png" height=32><a href="https://ankara.academia.edu/RegaipKurt" target="_blank">&nbsp;&nbsp;</a> &nbsp;&nbsp;&nbsp;<img src="http://RegaipKurt.github.io/images/Twitter_Square.png" height=30 ><a href="https://twitter.com/kodyazanbirsair" target="_blank">&nbsp;&nbsp;</a>
 </div>
 
+<div style="text-align: center;">
 <img align='center' src="https://github-profile-trophy.vercel.app/?username=regaipkurt&theme=gruvbox&row=1&column=6">
-
+</div>
 <!--
 **RegaipKURT/RegaipKURT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=regaipkurt&show_icons=true">
