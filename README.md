@@ -5,6 +5,7 @@
 
 ---
 <img align='center' src="https://github-profile-trophy.vercel.app/?username=regaipkurt&theme=gruvbox&row=1&column=6">
+
 --- 
 <!--
 **RegaipKURT/RegaipKURT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
