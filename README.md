@@ -5,7 +5,7 @@
 <img src="http://RegaipKurt.github.io/images/kaggle-5.png" height=32><a href="https://www.kaggle.com/regaipkurt" target="_blank"></a> &nbsp;&nbsp;&nbsp;
 <img src="http://RegaipKurt.github.io/images/academia_square.png" height=32><a href="https://ankara.academia.edu/RegaipKurt" target="_blank">&nbsp;&nbsp;</a> &nbsp;&nbsp;&nbsp;<img src="http://RegaipKurt.github.io/images/Twitter_Square.png" height=30 ><a href="https://twitter.com/kodyazanbirsair" target="_blank">&nbsp;&nbsp;</a>
 </div>
-
+<br>
 <div style="text-align: center;">
 <img align='center' src="https://github-profile-trophy.vercel.app/?username=regaipkurt&theme=gruvbox&row=1&column=6">
 </div>
