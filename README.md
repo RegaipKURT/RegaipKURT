@@ -1,6 +1,6 @@
 ### 👋 Hi there 👋
 ### 🔭 I’m currently working on Data Science and Cyber Security.
-<span><img src="http://RegaipKurt.github.io/images/linked1.png" height=32> <a href="https://www.linkedin.com/in/regaipkurt/" target="_blank"><h2>LinkedIn</h2></a> </span>
+<h2><span><img src="http://RegaipKurt.github.io/images/linked1.png" height=32> <a href="https://www.linkedin.com/in/regaipkurt/" target="_blank">LinkedIn</a> </span></h2>
   &nbsp; <img src="http://RegaipKurt.github.io/images/kaggle-5.png" height=32><a href="https://www.kaggle.com/regaipkurt" target="_blank"></a> &nbsp;&nbsp;&nbsp; <img src="http://RegaipKurt.github.io/images/academia_square.png" height=32><a href="https://ankara.academia.edu/RegaipKurt" target="_blank">&nbsp;&nbsp;</a>&nbsp;&nbsp;&nbsp; <img src="http://RegaipKurt.github.io/images/Twitter_Square.png" height=30 ><a href="https://twitter.com/kodyazanbirsair" target="_blank">&nbsp;&nbsp;</a>
 
 ---
